@@ -1,1 +1,9 @@
-<iframe src=https://botsfordiscord.com/api/bot/716944009930473494/widget></iframe>
+<iframe
+	src="//player.vimeo.com/video/96794772?color=ff00ff"
+	width="700"
+	height="394"
+	frameborder="0"
+	webkitallowfullscreen
+	mozallowfullscreen
+	allowfullscreen
+></iframe>
